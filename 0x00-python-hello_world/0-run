@@ -1,0 +1,2 @@
+#!/bin/bash
+phthon3 $PYFILE
